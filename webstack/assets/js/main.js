@@ -52,7 +52,7 @@
 								title="${c_value.url}" data-original-title="${c_value.url}">
 								<div class="xe-comment-entry">
 									<a class="xe-user-img">
-										<img src="https://cdn.jsdelivr.net/gh/w3ctim/picBed/webstack/assets/images/logos/${c_value.img}" class="img-circle" width="40">
+										<img src="https://cdn.jsdelivr.net/gh/w3ctim/picBed/webstack/assets/images/logo/${c_value.img}" class="img-circle" width="40">
 									</a>
 										<div class="xe-comment">
 											<a href="#" class="xe-user-name overflowClip_1">
