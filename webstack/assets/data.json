@@ -1,0 +1,178 @@
+{
+  "常用": {
+    "历年明星项目": {
+      "url": "https://risingstars.js.org/2019/zh",
+      "name": "历年明星项目",
+      "disc": "JavaScript 天下第一武道大会",
+      "img": "bestofjs.svg"
+    },
+    "W3Techs": {
+      "url": "https://w3techs.com/",
+      "name": "W3Techs",
+      "disc": "万维网技术 天下第一武道大会",
+      "img": "w3techs.gif"
+    },
+
+    "speedtest": {
+      "url": "http://www.speedtest.net/zh-Hans",
+      "name": "SpeedTest",
+      "disc": "网络在线测速",
+      "img": "speedtest.webp"
+    }
+  },
+  "在线办公": {
+    "腾讯文档": {
+      "url": "https://docs.qq.com/desktop/",
+      "name": "腾讯文档",
+      "disc": "腾讯文档，记你所想",
+      "img": "qqdocs.jpg"
+    },
+    "腾讯问卷": {
+      "url": "https://wj.qq.com/",
+      "name": "腾讯问卷",
+      "disc": "腾讯出品的问卷调查系统",
+      "img": "qqwj.png"
+    },
+    "notion": {
+      "url": "https://www.notion.so/",
+      "name": "Notion",
+      "disc": "来自未来的笔记协作工具",
+      "img": "notion.webp"
+    },
+    "ZhiMap": {
+      "url": "https://zhimap.com/",
+      "name": "ZhiMap",
+      "disc": "在线思维导图",
+      "img": "zhimap.jpg"
+    }
+  },
+
+  "控制台": {
+    "阿里云": {
+      "url": "https://home.console.aliyun.com/",
+      "name": "阿里云",
+      "disc": "全球领先的互联网应用服务提供商",
+      "img": "aliyun.webp"
+    },
+    "腾讯云": {
+      "url": "https://cloud.tencent.com/",
+      "name": "腾讯云",
+      "disc": "为企业和开发者提供安全稳定的云计算服务",
+      "img": "tencentcloud.jpg"
+    },
+    "七牛云": {
+      "url": "https://portal.qiniu.com/",
+      "name": "七牛云",
+      "disc": "国内领先的公有云服务商",
+      "img": "qiniu.webp"
+    },
+    "百度智能云": {
+      "url": "https://cloud.baidu.com/",
+      "name": "百度智能云",
+      "disc": "百度云计算智能平台",
+      "img": "baiduzny.jpg"
+    },
+    "有道智云": {
+      "url": "https://ai.youdao.com/index.s",
+      "name": "有道智云",
+      "disc": "国内领先的公有云服务商",
+      "img": "aiyd.png"
+    },
+    "百度翻译开放平台": {
+      "url": "http://api.fanyi.baidu.com/api/trans/product/desktop",
+      "name": "百度翻译开放平台",
+      "disc": "百度翻译API控制台",
+      "img": "aibd.png"
+    }
+  },
+  "竞赛靶场": {
+    "github": {
+      "url": "https://www.github.com/",
+      "name": "Github",
+      "kw": "gh",
+      "disc": "全球最大的同性交友社区",
+      "img": "github.webp"
+    },
+    "leetcode": {
+      "url": "https://leetcode-cn.com/",
+      "name": "力扣",
+      "disc": "Leetcode中国",
+      "img": "leetcode.jpg"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/",
+      "name": "Kaggle",
+      "disc": "数据挖掘竞赛平台",
+      "img": "kaggle.png"
+    }
+  },
+  "搜索引擎": {
+    "google": {
+      "url": "https://www.google.com/",
+      "name": "Google",
+      "kw": "gg",
+      "disc": "全球最大的搜索引擎（英文优先）",
+      "img": "google.webp"
+    },
+    "谷歌": {
+      "url": "https://www.google.com.hk/",
+      "name": "Google 中文",
+      "disc": "全球最大的搜索引擎（中文优先）",
+      "img": "google.webp"
+    },
+    "搜狗": {
+      "url": "https://www.sogou.com/",
+      "name": "搜狗",
+      "kw": "sg",
+      "disc": "支持微信和知乎等搜索",
+      "img": "sogou.webp"
+    },
+    "duckduckgo": {
+      "url": "https://www.DuckDuckGo.com",
+      "name": "DuckDuckGo",
+      "kw": "ddg",
+      "disc": "隐私且简洁的搜索引擎",
+      "img": "duck.webp"
+    },
+    "webcrawler": {
+      "url": "https://www.webcrawler.com/",
+      "name": "WebCrawler",
+      "disc": "元搜索引擎",
+      "img": "webcrawler.webp"
+    },
+    "wolframalpha": {
+      "url": "https://www.wolframalpha.com/",
+      "name": "WolframAlpha",
+      "kw": "wa",
+      "disc": "知识搜索引擎",
+      "img": "wolfram.webp"
+    },
+    "fireball": {
+      "url": "https://fireball.com/",
+      "name": "Fireball",
+      "disc": "德国匿名搜索引擎",
+      "img": "fireball.svg"
+    }
+  },
+  "资料搜集": {
+    "wikipedia": {
+      "url": "https://www.wikipedia.org/",
+      "name": "Wikipedia",
+      "disc": "全球最大的在线百科",
+      "kw": "wk",
+      "img": "wikipedia.webp"
+    },
+    "学术搜索": {
+      "url": "http://scholar.chongbuluo.com/",
+      "name": "学术搜索",
+      "disc": "站在巨人的肩膀上",
+      "img": "chong.webp"
+    },
+    "文库下载": {
+      "url": "http://www.wenkuwenku.com/",
+      "name": "文库下载",
+      "disc": "文库自助下载系统",
+      "img": "wenku.jpg"
+    }
+  }
+}
