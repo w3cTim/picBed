@@ -1,7 +1,7 @@
 // JavaScript Document
 var Car = function () {
 	//-----------------------------------------
-	this.image_dir = "./assets/car/img/";
+	this.image_dir = "https://cdn.jsdelivr.net/gh/w3ctim/picBed/webstack/assets/car/img/";
 	this.image_image = this.image_dir + "lotus_image.png"; //IE用
 	this.image_blank = this.image_dir + "lotus_blank.gif";
 	this.image_sprite = this.image_dir + "lotus_sprite.png";
