@@ -9179,7 +9179,8 @@ a.text-yellow:hover {
 }
 
 .text-gray {
-    color: #555
+    color: #555;
+    margin: 25px 0 0;
 }
 
 a.text-gray:hover {
