@@ -31,7 +31,7 @@
     display: block;
     margin-right: 10px;
     height: 40px;
-    border-radius: 0;
+    border-radius: 3px;
 }
 
 .xe-comment p {
